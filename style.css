@@ -372,6 +372,7 @@ nav {
   margin: 10px 10px 21px 48px;
   font-weight: bold;
   width: 72%;
+  border-radius: 15px;
 }
 .fury div:hover {
   background-color: lightblue;
