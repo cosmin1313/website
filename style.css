@@ -70,9 +70,8 @@ nav {
 .nav-links a {
   color: black;
   text-decoration: none;
-  letter-spacing: 3px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
 }
 /* #about-nav {
   color: #2400ff;
