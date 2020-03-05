@@ -11,7 +11,7 @@ nav {
   align-items: center;
   min-height: 8vh;
   font-family: "Poppins", sans-serif;
-  height: 100px;
+  /* height: 100px; */
   box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 1.2rem;
   position: fixed;
   top: 0;
@@ -70,7 +70,7 @@ nav {
 .nav-links a {
   color: black;
   text-decoration: none;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
 }
@@ -177,6 +177,27 @@ nav {
   /* body {
     overflow: hidden;
   } */
+  #wrapper {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+  }
+  .fury {
+    margin: 15px 0 15px 0 !important;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    height: 95%;
+  }
+  .fury div {
+    align-items: center;
+    justify-content: center;
+    /* width: 90% !important; */
+  }
+  .fury img {
+    width: 100%;
+    height: 100%;
+  }
   .nav-links {
     position: absolute;
   }
@@ -220,7 +241,7 @@ nav {
     padding-bottom: 40px;
   }
   .description {
-    width: 90%;
+    width: 100%;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 1.2rem;
     font-size: 25px;
     margin: 0px auto;
@@ -405,7 +426,7 @@ nav {
 }
 .right-footer ul li {
   margin-left: 10px;
-  font-size: 35px;
+  font-size: 25px;
   padding-right: 35px;
   color: grey;
 }
@@ -419,7 +440,7 @@ nav {
 .left-footer ul li {
   padding-bottom: 10px;
   padding-top: 20px;
-  font-size: 25px;
+  font-size: 20px;
 }
 .left-footer ul li a {
   color: grey;
