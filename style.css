@@ -427,7 +427,7 @@ nav {
 .right-footer ul li {
   margin-left: 10px;
   font-size: 25px;
-  padding-right: 35px;
+  padding: 10px 20px;
   color: grey;
 }
 .left-footer ul {
